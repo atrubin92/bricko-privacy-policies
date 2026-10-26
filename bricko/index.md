@@ -1,44 +1,55 @@
 # Privacy Policy for Bricko
 
-**Last updated:** July 26, 2026
+Last updated: October 26, 2026
 
-Bricko ("the app") does not collect or transmit any personal data. The only thing it stores is your game progress, and it stays on your device.
+Bricko is an offline brick-breaker game developed by Andrei Trubin. The game does not collect personal information, use advertising or analytics services, or send gameplay data to the developer. You do not need an account to play.
 
-## What the app does not do
+## Information stored on your device
 
-The app does not:
+Bricko stores the following in the app's private storage so that you can continue playing and keep your preferences:
 
-- Collect personal information of any kind
-- Use analytics or tracking
-- Show advertisements
-- Connect to any servers or send data over the network — the app requests no internet permission at all
-- Access device sensors, camera, microphone, contacts, location, or storage beyond app-private data
-- Use third-party SDKs that collect data
+- Unlocked levels and saved runs, including separate checkpoints for difficulty modes.
+- Scores, stars, completion records, best combos, and achievement progress.
+- Music and sound-effect volume, vibration preferences, and visual-effect settings.
 
-All gameplay happens locally on your device.
+This information is used locally to run the game, show your progress, and apply your choices. Bricko does not transmit it to the developer or sell it. Private app storage is protected by Android's app sandbox.
 
-## Game progress
+## Permissions and services
 
-The app saves your game progress — which levels you have unlocked, your score, and the state of the game you are currently playing — to private storage on your device. This is the only thing Bricko stores. It contains no personal information, it never reaches us, and no other app can read it.
+Bricko uses Android's vibration permission for optional gameplay feedback. This does not give the app access to your personal information.
 
-If Android Backup is switched on in your Google account settings, Android may include this save file in your device backup, exactly as it does for other apps. This is done by Android itself, not by Bricko. The backup goes to your own Google account, which we have no access to and never see. This is why your progress can come back after you reinstall the app.
+The game does not request internet, camera, microphone, contacts, or location permission. It does not include advertising, analytics, or developer-operated crash-reporting services. Gameplay does not require a network connection.
 
-## Deleting your data
+## Android backup and device transfer
 
-Uninstalling the app removes the save file from your device.
+Android may include Bricko's saved progress and settings in backups or device transfers, depending on your device, Android version, and backup settings. This is an operating-system service, separate from a Bricko account or developer-operated server.
 
-If Android Backup is switched on, a copy may remain in your Google account, which is why progress can reappear after reinstalling. To remove that copy as well, turn off Backup for Bricko in your device settings (Settings → Google → Backup) or delete the app's backup data from your Google account, then uninstall the app.
+The developer does not receive or have access to your Android backup. Backup and restore behavior is controlled by Android and the relevant service provider. Restored app data can cause progress or settings to reappear after reinstalling.
+
+## Retention and deletion
+
+Local game data is kept so that you can resume play and retain your preferences. You can remove it by clearing Bricko's app storage in Android settings or uninstalling the app.
+
+Removing local data does not necessarily remove an existing system backup. Manage backup copies through your device or backup-provider settings; available controls vary by device and service. There is no Bricko user account or developer-held gameplay database to delete.
+
+## Contacting support and visiting this website
+
+If you email support, the developer receives your email address and any information you choose to include. This is used to answer your request and is retained only as needed for support, security, or applicable legal obligations. Do not include passwords or other sensitive information in support messages. You may request deletion of support correspondence using the contact address below, subject to any applicable retention obligations.
+
+This policy website is hosted on GitHub Pages. GitHub states that visitors' IP addresses are logged for security purposes. Website visits are separate from offline gameplay and are governed by [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Children's privacy
 
-The app is suitable for all ages and does not knowingly collect data from any user, including children under 13.
+Bricko does not collect personal information through gameplay, including from children. The game does not require an account, display advertisements, or include player messaging. Any optional information sent directly to support is handled as described above.
 
 ## Changes to this policy
 
-This policy may be updated. Any updates will be posted at this URL with a new "Last updated" date.
+This policy may be updated. Any updates will be posted at this URL with a new “Last updated” date.
 
 ## Contact
 
-For questions about this policy or the app, contact: **bricko.support@gmail.com**
+Developer: Andrei Trubin
 
-Or visit: [trubin.dev](https://trubin.dev)
+Email: bricko.support@gmail.com
+
+Website: https://trubin.dev
